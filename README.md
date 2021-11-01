@@ -9,8 +9,14 @@ You need database with a lot of data
 
 ## Usage guide
 
-`npm install` to install dependencies
+### Install dependencies
 
-`npm run start` to start basic script
+```npm install```
 
-`npm run start-flush` to start script with flush to disc on every record
+### Start basic script
+
+```npm run start```
+
+### Start script with flush to disc on every record
+
+```npm run start-flush```
