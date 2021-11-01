@@ -11,12 +11,18 @@ You need database with a lot of data
 
 ### Install dependencies
 
-```npm install```
+```
+npm install
+```
 
 ### Start basic script
 
-```npm run start```
+```
+npm run start
+```
 
 ### Start script with flush to disc on every record
 
-```npm run start-flush```
+```
+npm run start-flush
+```
